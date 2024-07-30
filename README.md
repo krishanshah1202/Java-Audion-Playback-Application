@@ -1,4 +1,4 @@
-# Java-Audion-Playback-Application
+# Java-Audio-Playback-Application
 Welcome to the Java Audio Playback Application! This project is a feature-rich audio player developed in Java, designed to provide an intuitive and seamless music listening experience.<br>
 <b>Features</b>
 
